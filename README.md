@@ -17,9 +17,9 @@
 ### PYTHON
 Ensure Python 3.x is installed along with the following libraries: 
 <ul>
-  <li>pandas</li>
+  <li>`pandas`</li>
 </ul>
-To install pandas, use:
+To install pandas, use:<br>
 `pip install pandas`
 
 ### R
@@ -33,8 +33,8 @@ To install pandas, use:
       `import pandas as pd`
       `df = pd.read_csv('path_to_your_data.csv')`
  2. <p>Fetching Employee Details:</br>
-    Use the `_get_employee_details_` function to fetch details for a specific employee:</p>
-      `employee_details = get_employee_details(employee_name)`<br>
+    Use the  `_get_employee_details_`  function to fetch details for a specific employee:</p>
+      `employee_details = get_employee_details(employee_name)`
       `print(employee_details)` 
 ### R SCRIPT
  1. Loading Data:
