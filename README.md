@@ -32,11 +32,13 @@ To install pandas, use:
     The notebook starts by loading salary data from a CSV file</p>
     
       `import pandas as pd`
+    
       `df = pd.read_csv('path_to_your_data.csv')`
- 2. <p>Fetching Employee Details:</br>
+ 3. <p>Fetching Employee Details:</br>
     Use the _get_employee_details_  function to fetch details for a specific employee:</p>
     
       `employee_details = get_employee_details(employee_name)`
+    
       `print(employee_details)` 
       
 ### R SCRIPT
