@@ -17,9 +17,10 @@
 ### PYTHON
 Ensure Python 3.x is installed along with the following libraries: 
 <ul>
-  <li>`pandas`</li>
+  <li>pandas</li>
 </ul>
-To install pandas, use:<br>
+To install pandas, use:
+
 `pip install pandas`
 
 ### R
@@ -36,6 +37,7 @@ To install pandas, use:<br>
     Use the _get_employee_details_  function to fetch details for a specific employee:</p>
     
       `employee_details = get_employee_details(employee_name)`
+      `print(employee_details)` 
       
 ### R SCRIPT
  1. Loading Data:
