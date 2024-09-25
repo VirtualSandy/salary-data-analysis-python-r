@@ -11,6 +11,7 @@
 <ul>
 <li>SalaryDataAnalysis.ipynb: Python notebook for salary data analysis</li>
 <li>EmployeeDataExtractor.R : R script for extracting employee data</li>
+<li>Total.csv : Dataset</li>
 </ul>
 
 ## INSTALLATION 
