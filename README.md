@@ -11,7 +11,7 @@
 <ul>
 <li>SalaryDataAnalysis.ipynb: Python notebook for salary data analysis</li>
 <li>EmployeeDataExtractor.R : R script for extracting employee data</li>
-<li>Total.csv : Dataset</li>
+<li>Total.csv : Contains the dataset</li>
 </ul>
 
 ## INSTALLATION 
@@ -28,6 +28,9 @@ To install pandas, use:
  Ensure R is installed on your system.
 
 ## USAGE
+### CSV
+1. Unzip csv file
+   
 ### PYTHON NOTEBOOK
  1. <p>Loading Data:</br>
     The notebook starts by loading salary data from a CSV file</p>
